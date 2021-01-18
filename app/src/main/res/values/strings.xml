@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CamBit</string>
+    <string name="warn">Place your fingers close to the camera lens. Adjust till it blinks and then stay still.</string>
+    <string name="about">About</string>
+    <string name="your_approximate_heart_rate_is">Your approximate heart rate is :</string>
+    <string name="xx_bpm">XX BPM</string>
+    <string name="legend">Legend :</string>
+    <string name="good_heart_rate">Good</string>
+    <string name="warning_light_red">Warning</string>
+    <string name="danger">Danger</string>
+</resources>
