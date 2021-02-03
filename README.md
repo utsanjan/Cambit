@@ -1,5 +1,5 @@
 # Cambit
-Measure your heartbeat just by using your phone camera.
+Measure your heartbeat just by using your phone camera and flash.
 
 # Uses (Concept) : Photoplethysmogram
 A photoplethysmogram (PPG) is an optically obtained plethysmogram that can be used to detect blood volume changes in the microvascular bed of tissue.
