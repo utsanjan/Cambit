@@ -1,7 +1,7 @@
 # Cambit
 Measure your heartbeat just by using your phone camera and flash.
 
-# Uses (Concept) : Photoplethysmogram
+# Uses & Concept (Photoplethysmogram)
 A photoplethysmogram (PPG) is an optically obtained plethysmogram that can be used to detect blood volume changes in the microvascular bed of tissue.
 A PPG is often obtained by using a pulse oximeter which illuminates the skin and measures changes in light absorption.
 A conventional pulse oximeter monitors the perfusion of blood to the dermis and subcutaneous tissue of the skin. With each cardiac cycle the heart pumps blood to the periphery. 
