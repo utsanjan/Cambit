@@ -1,5 +1,14 @@
-# Cambit
-Measure your heartbeat just by using your phone camera and flash.
+<h1 align="center">
+  <br>
+  <a href="https://github.com/utsanjan/Cambit/">
+  <img src="https://1.bp.blogspot.com/-y9j4bJlztT8/YD8zVA-jZlI/AAAAAAAAbZU/PD_xf9MWaEgHa8HcgimyStx47cmngwH1gCLcBGAsYHQ/w200-h200/imageonline-co-roundcorner.png"
+  alt="Cambit">
+  </a><br>
+  Cambit v1.0
+  <br>
+</h1>
+
+<p align="center">Measure your heartbeat just by using your phone camera and flash</p>
 
 # Uses & Concept (Photoplethysmogram)
 A photoplethysmogram (PPG) is an optically obtained plethysmogram that can be used to detect blood volume changes in the microvascular bed of tissue.
@@ -14,4 +23,7 @@ Because blood flow to the skin can be modulated by multiple other physiological 
 and other circulatory conditions.Additionally, the shape of the PPG waveform differs from subject to subject, and varies with the location and manner 
 in which the pulse oximeter is attached. Source : https://en.wikipedia.org/wiki/Photoplethysmogram
 
-
+# 🧑🏻‍💻 Devs
+🔸 [Utsanjan Maity](https://github.com/utsanjan)
+<br>🔸 [Pratim Majumder](https://github.com/ExploiTR)
+<br>🔸 [Abhik Khatuya](https://github.com/abhik1205-web)
