@@ -8,7 +8,8 @@
   <br>
 </h1>
 
-<p align="center">Measure your heartbeat just by using your phone camera and flash</p>
+<p align="center">Measure your heartbeat just by
+<br>using your phone camera and flash</p>
 
 # Uses & Concept (Photoplethysmogram)
 A photoplethysmogram (PPG) is an optically obtained plethysmogram that can be used to detect blood volume changes in the microvascular bed of tissue.
