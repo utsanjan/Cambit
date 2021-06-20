@@ -24,7 +24,7 @@ Because blood flow to the skin can be modulated by multiple other physiological 
 and other circulatory conditions.Additionally, the shape of the PPG waveform differs from subject to subject, and varies with the location and manner 
 in which the pulse oximeter is attached. Source : https://en.wikipedia.org/wiki/Photoplethysmogram
 
-# 🧑🏻‍💻 Devs 
+# 🧑🏻‍💻 Devs
 🔸 [Utsanjan Maity](https://github.com/utsanjan)
 <br>🔸 [Pratim Majumder](https://github.com/ExploiTR)
-<br>🔸 [Abhik Khatuya](https://github.com/abhik1205-web)
+<br>🔸 [Abhik Khatuya](https://github.com/ABHIK-KHATUYA)
